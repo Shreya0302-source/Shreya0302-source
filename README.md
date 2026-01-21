@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Shreya0302-source/Shreya0302-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shreya0302/Shreya0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi, I'm Shreya Joshi 👋</h1>
 
